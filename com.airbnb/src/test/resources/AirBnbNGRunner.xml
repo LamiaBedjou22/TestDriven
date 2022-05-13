@@ -4,7 +4,7 @@
 <suite name="Airbnb test Suite">
     <test name="CR1">
         <parameter name="BrowserName" value="chrome"/>
-        <parameter name="BrowserVersion" value="90"/>
+        <parameter name="BrowserVersion" value="101"/>
         <parameter name="url" value="https://www.airbnb.com/"/>
         <classes>
          <class name="becomeAHostPageTest.AirbnbBecomeAHostPageTest"/>
